@@ -1,0 +1,6 @@
+*.swp
+piped/dist
+*.ovpn
+postgres/data
+.pgpass
+.env
